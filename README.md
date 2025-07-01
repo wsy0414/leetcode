@@ -5,3 +5,4 @@ This repository documents my progress and solutions for LeetCode problems. Each 
 ## Problems
 
 - [Two Sum](./two-sum/)
+- [Contains Duplicate](./contains-duplicate/)
